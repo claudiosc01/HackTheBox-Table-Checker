@@ -22,7 +22,7 @@ function ctrl_c(){
 function banner() {
   echo -e "\n\n\n ${blueColour}__      .____     _____     _____ ____  ___       __${endColour} "
   echo -e " ${blueColour}\ \     |    |      /  |  |   /  |  |\   \/  /     / /${endColour} "
-  echo -e " ${redColour} \ \    |    |     /   |  |_ /   |  |_\     /     / /${endColour}           ${purpleColour}👑${endColour} ${yellowColour}GitHub${endColour} ${redColour}>${endColour} ${whiteColour}https://${endColour}${redColour}github.com/${endColour}${whiteColour}claudiosc01${endColour}"
+  echo -e " ${redColour} \ \    |    |     /   |  |_ /   |  |_\     /     / /${endColour}           ${purpleColour}👑${endColour} ${yellowColour}GitHub${endColour} ${redColour}>${endColour} ${whiteColour}https://${endColour}${redColour}github.com/${endColour}${whiteColour}l44x${endColour}"
   echo -e " ${redColour} / /    |    |___ /    ^   //    ^   //     \     \ \ ${endColour} "
   echo -e " ${blueColour}/_/     |_______ \\____   | \____   |/___/\  \      \_\ ${endColour}"
   echo -e " ${blueColour}                \/     |__|      |__|      \_/         ${endColour}"
